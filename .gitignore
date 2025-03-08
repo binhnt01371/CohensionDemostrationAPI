@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CohensionDemostration.Application/bin/Debug/net8.0
+/.vs/CohensionDemostrationAPI/FileContentIndex/46a91d51-053f-4c20-b9d3-de76fc6dcb95.vsidx
+/CohensionDemostration.Application/obj
+/CohensionDemostration.Domain/bin/Debug/net8.0
+/CohensionDemostration.Domain/obj
+/CohensionDemostration.Infrastructure/bin/Debug/net8.0
+/CohensionDemostration.Infrastructure/obj
+/CohensionDemostration.Tests/bin/Debug/net8.0
+/CohensionDemostration.Tests/obj
+/.vs/CohensionDemostrationAPI/v17
+/CohensionDemostrationAPI/bin/Debug/net8.0
+/CohensionDemostrationAPI/obj

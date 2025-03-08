@@ -1,0 +1,6 @@
+@CohensionDemostrationAPI_HostAddress = http://localhost:5094
+
+GET {{CohensionDemostrationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

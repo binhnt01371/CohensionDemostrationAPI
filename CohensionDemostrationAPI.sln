@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CohensionDemostration.API", "CohensionDemostrationAPI\CohensionDemostration.API.csproj", "{68B3843D-FDFA-43D0-BD96-CC423E0291C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CohensionDemostration.Domain", "CohensionDemostration.Domain\CohensionDemostration.Domain.csproj", "{63A75FF7-600F-4F16-8003-23D69E888AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CohensionDemostration.Application", "CohensionDemostration.Application\CohensionDemostration.Application.csproj", "{145F0AFE-0B8F-45E7-8A21-B4D3B77891A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CohensionDemostration.Infrastructure", "CohensionDemostration.Infrastructure\CohensionDemostration.Infrastructure.csproj", "{A7BFA87B-EE59-4F9F-A5AC-B3DFCA7A460A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CohensionDemostration.Tests", "CohensionDemostration.Tests\CohensionDemostration.Tests.csproj", "{FAF2FFA9-B639-4A3E-8BC5-6CEC833D8A13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B3843D-FDFA-43D0-BD96-CC423E0291C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B3843D-FDFA-43D0-BD96-CC423E0291C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B3843D-FDFA-43D0-BD96-CC423E0291C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B3843D-FDFA-43D0-BD96-CC423E0291C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A75FF7-600F-4F16-8003-23D69E888AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A75FF7-600F-4F16-8003-23D69E888AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A75FF7-600F-4F16-8003-23D69E888AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A75FF7-600F-4F16-8003-23D69E888AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145F0AFE-0B8F-45E7-8A21-B4D3B77891A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145F0AFE-0B8F-45E7-8A21-B4D3B77891A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145F0AFE-0B8F-45E7-8A21-B4D3B77891A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145F0AFE-0B8F-45E7-8A21-B4D3B77891A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7BFA87B-EE59-4F9F-A5AC-B3DFCA7A460A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7BFA87B-EE59-4F9F-A5AC-B3DFCA7A460A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7BFA87B-EE59-4F9F-A5AC-B3DFCA7A460A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7BFA87B-EE59-4F9F-A5AC-B3DFCA7A460A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF2FFA9-B639-4A3E-8BC5-6CEC833D8A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2FFA9-B639-4A3E-8BC5-6CEC833D8A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2FFA9-B639-4A3E-8BC5-6CEC833D8A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2FFA9-B639-4A3E-8BC5-6CEC833D8A13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C8B23C6-2707-418E-8289-53BF92C0A368}
+	EndGlobalSection
+EndGlobal
